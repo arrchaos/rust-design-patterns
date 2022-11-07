@@ -1,3 +1,5 @@
+mod structural;
+
 fn main() {
-    println!("Hello, world!");
+   println!("nothing")
 }
