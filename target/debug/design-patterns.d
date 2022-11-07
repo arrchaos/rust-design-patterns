@@ -1,1 +1,0 @@
-/Users/victor/rust/design-patterns/target/debug/design-patterns: /Users/victor/rust/design-patterns/src/main.rs /Users/victor/rust/design-patterns/src/structural/mod.rs /Users/victor/rust/design-patterns/src/structural/responsiblity_chain.rs /Users/victor/rust/design-patterns/src/structural/test.rs
